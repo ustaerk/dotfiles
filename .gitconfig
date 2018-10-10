@@ -185,3 +185,8 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+
+[user]
+	email = uli@apache.org
+	name = Ulrich Staerk
+	signingkey = 90C23596E4D2361B
